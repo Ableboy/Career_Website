@@ -1,2 +1,2 @@
-# stressless_career_website
-A stressless job web practices
+# CareerWise.io
+A career  job web practice for AI and Data related 
