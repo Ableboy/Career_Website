@@ -6,25 +6,25 @@ app = Flask(__name__)
 JOBS = [
   {
     'id': '1',
-    'title': 'Data Analysis',
+    'title': 'Data Scientist',
     'location': 'Lagos',
-    'salary': 'N 250, 000',
+    'salary': 'N 4, 250, 000',
   },
   {
     'id': '2',
-    'title': 'Software Engineer',
+    'title': 'AI Software Developer',
     'location': 'San Francisco, USA',
     'salary': '$ 120, 000',
   },
   {
     'id': '3',
-    'title': 'Data Scientist',
+    'title': 'Data Analyst',
     'location': 'Abuja',
-    'salary': 'N 500, 000',
+    'salary': 'N 2, 000, 000',
   },
   {
     'id': '4',
-    'title': 'Full-Stack Developer',
+    'title': 'Business Intelligence Analyst',
     'location': 'Remote',
   },
   {
@@ -35,9 +35,9 @@ JOBS = [
   },
   {
     'id': '6',
-    'title': 'Cloud Engineer',
+    'title': 'Robotics Engineer',
     'location': 'Texas, USA',
-    'salary': '$ 150, 000',
+    'salary': '$ 130, 000',
   }
 ]
 
