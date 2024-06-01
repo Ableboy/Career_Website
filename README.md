@@ -1,2 +1,3 @@
 # CareerWise.io
-A career  job web practice for AI and Data related 
+
+This Career Website Application is still under construction 
